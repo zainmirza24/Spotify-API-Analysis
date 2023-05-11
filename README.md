@@ -28,7 +28,7 @@ The data for this project is split into 2 sections, stemming from the 2 objectiv
 
 ## Visualizations (Notebook file does not show) 
 
-<img width="500" alt="Screen Shot 2023-05-11 at 3 42 22 PM" src="https://github.com/zainmirza24/Spotify-API-Analysis/assets/94576481/3ce8920d-55b8-49d2-91e1-225b0daaeb9d">
+<img width="650" alt="Screen Shot 2023-05-11 at 3 42 22 PM" src="https://github.com/zainmirza24/Spotify-API-Analysis/assets/94576481/3ce8920d-55b8-49d2-91e1-225b0daaeb9d">
 
         
 
