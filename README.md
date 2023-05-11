@@ -25,6 +25,11 @@ The data for this project is split into 2 sections, stemming from the 2 objectiv
 2) *Analysis*: After completion of webscraping the 'Hot 100' list and connecting to Spotify's API, I grabbed a dataset from Kaggle containing **audio feature** statistics of the top 2000 tracks on Spotify from 2000-2019. This data contains 18 columns each describing the same qualities derived from the *API*. 
 
 - **See "Data Description" file for column details** 
+
+## Visualizations (Notebook file does not show) 
+
+<img width="778" alt="Screen Shot 2023-05-11 at 3 42 22 PM" src="https://github.com/zainmirza24/Spotify-API-Analysis/assets/94576481/3ce8920d-55b8-49d2-91e1-225b0daaeb9d">
+
         
 
 
