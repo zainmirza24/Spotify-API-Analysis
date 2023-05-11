@@ -2,7 +2,7 @@
 <img src= https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg>
 </div>
 
-# Spotify API + Analysis
+# Spotify API + Analysis Project
 Spotify is the most popular global audio streaming service with 365m users, including 165m subscribers across 178 markets. They are the largest driver of revenue to the music business today.
 
 ## Objective 
