@@ -26,7 +26,7 @@ The data for this project is split into 2 sections, stemming from the 2 objectiv
     - Data Description: 
         - artist: Name of the Artist
         - song: Name of the Track
-        - duration_ms: Duration of the track in milliseconds.
+        - duration_ms: Duration of the track in milliseconds.
         -  explicit: The lyrics or content of a song or a music video contain one or more of the criteria which could be considered offensive or unsuitable for children
         -   year: Release Year of the track.
         -   *popularity*: The higher the value the more popular the song is.
