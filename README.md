@@ -8,7 +8,7 @@ Spotify is the most popular global audio streaming service with 365m users, incl
 ## Objective 
 This project contains two main objectives: 
 1) Extract Spotify API from webscraping Billboard's 'Hot 100' list. (*API*)  
-2) Analyze Spotify music data to gain insights into user preferences, popular genres, and the popularity of different artists. (*Kaggle dataset*)
+2) Analyze Spotify music data to gain insights into user preferences, popular genres, and the popularity of different artists. (*Kaggle data*)
 Specific Questions I wanted to answer include: 
     - Top 25 tracks based on given features? (popularity and danceability were the ones I was most intrigued by)
     - Top artists based on popularity?
