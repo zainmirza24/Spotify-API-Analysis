@@ -28,9 +28,41 @@ The data for this project is split into 2 sections, stemming from the 2 objectiv
 
 ## Visualizations 
 
-- correlation matrix:
+### Correlation Matrix: 
+
+
+
 
 <img width="900" alt="Screen Shot 2023-05-11 at 3 46 43 PM" src="https://github.com/zainmirza24/Spotify-API-Analysis/assets/94576481/3ad2732d-c321-4b17-b662-f719eafdd85d">
+
+### Feature Distribution: 
+
+![newplot](https://github.com/zainmirza24/Spotify-API-Analysis/assets/94576481/3d79deed-1c0e-4106-af92-8b6be8333799)
+
+### TOP 25: 
+
+#### - Songs in Spotify based on 'Popularity'
+
+![newplot (1)](https://github.com/zainmirza24/Spotify-API-Analysis/assets/94576481/68425d9d-4f7b-422c-b78e-c0594fe520d3)
+
+#### - Songs in Spotify based on 'Danceability'
+
+![newplot (2)](https://github.com/zainmirza24/Spotify-API-Analysis/assets/94576481/050f9dd3-a0bb-4e8f-9478-c7d106a1f3d3)
+
+#### - Top Singers based on Popularity (Treemap)
+
+![newplot (3)](https://github.com/zainmirza24/Spotify-API-Analysis/assets/94576481/a2ba2805-a2bb-411c-a043-57a251fe4bcb)
+
+##### - Detailed Look at Treemap (Songs organized by each artist and displayed by 'Popularity' score) 
+
+![newplot (4)](https://github.com/zainmirza24/Spotify-API-Analysis/assets/94576481/6e65fa0b-19ce-4f07-ba36-0d85d9130494)
+
+
+
+
+
+
+
 
 
         
