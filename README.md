@@ -74,7 +74,7 @@ The data for this project is split into 2 sections, stemming from the 2 objectiv
 
 ![newplot (8)](https://github.com/zainmirza24/Spotify-API-Analysis/assets/94576481/204804b7-73db-4826-a8e9-5691d2e005e7)
 
-### Genre Popularity on Spotify (minimum of 20 songs per genre)
+### - Genre Popularity on Spotify (minimum of 20 songs per genre)
 
 <img width="895" alt="Screen Shot 2023-06-26 at 10 55 41 AM" src="https://github.com/zainmirza24/Spotify-API-Analysis/assets/94576481/77729adc-ed01-4974-9771-d6b4f7c63f59">
 
