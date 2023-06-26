@@ -78,7 +78,8 @@ The data for this project is split into 2 sections, stemming from the 2 objectiv
 
 <img width="895" alt="Screen Shot 2023-06-26 at 10 55 41 AM" src="https://github.com/zainmirza24/Spotify-API-Analysis/assets/94576481/77729adc-ed01-4974-9771-d6b4f7c63f59">
 
-
+# Conclusion 
+This project taught me a little more about APIs & how we can extract publicly available data to answer useful questions that may strike our curiosity. The analysis portion of this project allowed me to introduce the plotly.express module into my suite for beautiful and easy-to-interpret visualizations.    
 
 
 
