@@ -13,9 +13,9 @@ Specific Questions I wanted to answer include:
     - Top 25 tracks based on given features? (popularity and danceability were the ones I was most intrigued by)
     - Top artists based on popularity?
     - Correlation between:
-        - Danceability score and Popularity score?
-        - Energy score and Danceability score?
-        - Energy score and Loudness score?
+        - Danceability score & Popularity score?
+        - Energy score & Danceability score?
+        - Energy score & Loudness score?
         - Most popular Genres?
 
 ## Data 
@@ -29,9 +29,6 @@ The data for this project is split into 2 sections, stemming from the 2 objectiv
 ## Visualizations 
 
 ### Correlation Matrix: 
-
-
-
 
 <img width="900" alt="Screen Shot 2023-05-11 at 3 46 43 PM" src="https://github.com/zainmirza24/Spotify-API-Analysis/assets/94576481/3ad2732d-c321-4b17-b662-f719eafdd85d">
 
@@ -49,13 +46,40 @@ The data for this project is split into 2 sections, stemming from the 2 objectiv
 
 ![newplot (2)](https://github.com/zainmirza24/Spotify-API-Analysis/assets/94576481/050f9dd3-a0bb-4e8f-9478-c7d106a1f3d3)
 
-#### - Top Singers based on Popularity (Treemap)
+### - Top Singers based on Popularity (Treemap)
 
 ![newplot (3)](https://github.com/zainmirza24/Spotify-API-Analysis/assets/94576481/a2ba2805-a2bb-411c-a043-57a251fe4bcb)
 
-##### - Detailed Look at Treemap (Songs organized by each artist and displayed by 'Popularity' score) 
+#### - Detailed Look at Treemap (Songs organized by each artist and displayed by 'Popularity' score | Ex. 'Rihanna') 
 
 ![newplot (4)](https://github.com/zainmirza24/Spotify-API-Analysis/assets/94576481/6e65fa0b-19ce-4f07-ba36-0d85d9130494)
+
+### - Boxplot: Popularity based on if the track included 'explicit language' (true/false)
+
+![newplot (5)](https://github.com/zainmirza24/Spotify-API-Analysis/assets/94576481/6f024096-7806-4164-aa72-eba2fd1a8887)
+
+### - Scatter Plot: Relationship between Danceability Score & Popularity Score  
+
+![newplot (5)](https://github.com/zainmirza24/Spotify-API-Analysis/assets/94576481/5f235a08-3fa7-4093-98d6-b81f5c5d5f28)
+
+### - Scatter Plot: Relationship between Energy Score & Danceability Score
+
+![newplot (6)](https://github.com/zainmirza24/Spotify-API-Analysis/assets/94576481/e2176988-32f1-4883-8be6-30b49ebd416a)
+
+### - Scatter Plot: Energy Score & Loudness Score
+
+![newplot (7)](https://github.com/zainmirza24/Spotify-API-Analysis/assets/94576481/76f03b56-97a4-4dcc-acdb-d5046f309d70)
+
+### - Popularity of (genre) Over Time 
+
+![newplot (8)](https://github.com/zainmirza24/Spotify-API-Analysis/assets/94576481/204804b7-73db-4826-a8e9-5691d2e005e7)
+
+### Genre Popularity on Spotify (minimum of 20 songs per genre)
+
+<img width="895" alt="Screen Shot 2023-06-26 at 10 55 41 AM" src="https://github.com/zainmirza24/Spotify-API-Analysis/assets/94576481/77729adc-ed01-4974-9771-d6b4f7c63f59">
+
+
+
 
 
 
